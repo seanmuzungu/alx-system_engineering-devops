@@ -1,2 +1,4 @@
 #!/bin/bash
-chown betty 3-new_owner
+sudo chown betty 3-new_owner
+#!/bin/bash
+sudo chown betty 3-new_owner
