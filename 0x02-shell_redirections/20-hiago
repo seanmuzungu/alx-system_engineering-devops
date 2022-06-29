@@ -1,2 +1,2 @@
-#!/bin/hash
-tr -d "cC"
+#!/bin/bash
+tr -d 'c' | tr -d "c"
